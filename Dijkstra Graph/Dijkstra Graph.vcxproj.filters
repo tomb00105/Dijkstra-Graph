@@ -18,7 +18,7 @@
     <ClInclude Include="..\..\DijkstraGraph\cpplearn\Dijkstra.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\DijkstraGraph\cpplearn\DijkstraNode.h">
+    <ClInclude Include="..\..\DijkstraGraph\cpplearn\IDijkstraNode.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="..\..\DijkstraGraph\cpplearn\DijkstraStatus.h">
@@ -33,9 +33,6 @@
     <ClInclude Include="..\..\DijkstraGraph\cpplearn\GraphNode.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\DijkstraGraph\cpplearn\MemTest.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="..\..\DijkstraGraph\cpplearn\MinHeap.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -44,7 +41,7 @@
     <ClCompile Include="..\..\DijkstraGraph\cpplearn\Dijkstra.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\DijkstraGraph\cpplearn\DijkstraNode.cpp">
+    <ClCompile Include="..\..\DijkstraGraph\cpplearn\IDijkstraNode.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\..\DijkstraGraph\cpplearn\DijkstraStatus.cpp">
@@ -60,9 +57,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\..\DijkstraGraph\cpplearn\Main.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\DijkstraGraph\cpplearn\MemTest.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\..\DijkstraGraph\cpplearn\MinHeap.cpp">
